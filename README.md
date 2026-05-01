@@ -20,7 +20,7 @@
 - Gson 2.13.2 для парсинга JSON
 
 ## Сборка
-- git clone https://github.com/HaganR/playlist-maker-android-RagimovHagan.git
+- git clone 
 
 - Откройте Android Studio версии 2025.2.2 или новее
 - Выберите "Open" и укажите папку проекта, которая была создана после клонирования
@@ -34,4 +34,4 @@
 ## Запуск на эмуляторе или устройстве
 - Подключите Android-устройство с Android 7.0+ и включенной отладкой по USB
 - Или создайте/запустите эмулятор Android 7.0+ в AVD Manager
-- Нажмите Run → Run 'app' (Shift+F10)
+- Нажмите Run → Run 'app' (Shift+F10)"# PlaylistMaker_Zhbanov" 
